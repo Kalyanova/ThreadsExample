@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ThreadsExample</string>
+
+    <string name="btn_asynctask">ASYNCTASK ACTIVITY</string>
+    <string name="btn_loader">LOADER ACTIVITY</string>
+    <string name="btn_threads">THREADS ACTIVITY</string>
+
+    <string name="btn_create">Create</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="done">Done!</string>
 </resources>
